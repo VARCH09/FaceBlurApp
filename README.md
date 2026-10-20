@@ -5,13 +5,13 @@
 FaceBlur is an Android application built with Flutter, Kotlin, and OpenCV that detects faces in images and applies Gaussian blur to help protect personal privacy. It uses the lightweight YuNet face detection model and integrates native Android image processing with a Flutter user interface.
 
 <p align="Left">
-  <img src="screenshots/Home.png" alt="FaceBlur application home screen" width="300" height="300">
+  <img src="screenshots/Home.png" alt="FaceBlur application home screen" width="300" height="1000">
 </p>
 <p align="Left">
-  <img src="screenshots/Before.jpg" alt="Image before processing" width="300" height="300">
+  <img src="screenshots/Before.jpg" alt="Image before processing" width="300" height="1000">
 </p>
 <p align="Left">
-  <img src="screenshots/After.jpg" alt="Image after processing" width="300" height="300">
+  <img src="screenshots/After.jpg" alt="Image after processing" width="300" height="1000">
 </p>
 <p align="center">
   <b>Flutter</b> · <b>Kotlin</b> · <b>OpenCV</b> · <b>YuNet</b>
