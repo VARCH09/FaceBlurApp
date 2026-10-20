@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # face_blur_app
 
 A new Flutter project.
