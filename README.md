@@ -8,10 +8,10 @@ FaceBlur is an Android application built with Flutter, Kotlin, and OpenCV that d
   <img src="screenshots/Home.png" alt="FaceBlur application home screen" width="300">
 </p>
 <p align="Left">
-  <img src="screenshots/Before.png" alt="Image before processing" width="300">
+  <img src="screenshots/Before.jpg" alt="Image before processing" width="300">
 </p>
 <p align="Left">
-  <img src="screenshots/After.png" alt="Image after processing" width="300">
+  <img src="screenshots/After.jpg" alt="Image after processing" width="300">
 </p>
 <p align="center">
   <b>Flutter</b> · <b>Kotlin</b> · <b>OpenCV</b> · <b>YuNet</b>
